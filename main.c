@@ -1,8 +1,6 @@
 Bonsoir les amis
-<<<<<<< HEAD
+
 alors la zone
-=======
-ça va bien ?
-wsh
-yo
->>>>>>> Couleur
+En bas des blocs
+alors la zone
+
